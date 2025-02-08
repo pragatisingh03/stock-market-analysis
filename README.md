@@ -8,6 +8,7 @@
 # User Interface:
 <br>Inputs: Stock ticker, date range, prediction window.
 <br>Outputs: Historical trends, moving averages, predicted prices.
+<br><br>
 # Features:
 <br>Real-time stock data retrieval.
 <br>Interactive visualizations for better decision-making.
